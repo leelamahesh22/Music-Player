@@ -1,4 +1,4 @@
-# OlaPlayStudio
+# MusicPlayStudio
 Online Music Streaming Player.Plays music from a Rest api's url.I am loading data from rest Api using volley library here.This app also allows to download,share,play music .
 U can also Search Your Favorite song here.I didn't use any library for music playing here.
 Here I am sharing some screenshots<br></br>
